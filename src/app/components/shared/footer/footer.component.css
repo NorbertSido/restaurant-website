@@ -1,0 +1,22 @@
+footer{
+    padding: 100px 0 60px;
+}
+a {
+    /* Style */
+    color: rgba(126, 130, 143, 0.3);
+}
+
+i {
+    text-decoration: none;
+    border: 1px solid rgba(126, 130, 143, 0.3);
+    border-radius: 100%;
+    padding: 12px;
+    margin: 0 12px;
+    color: rgba(126, 130, 143, 0.3)
+}
+
+.social {
+    /* Display */
+    padding-top: 60px;
+    margin-top: 100px
+}
