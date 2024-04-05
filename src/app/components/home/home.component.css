@@ -1,0 +1,35 @@
+/* Hero title formatting */
+#hero-title{
+    /* Display */
+    font-size: 60px;
+    margin: 20px 0;
+    max-width: 580px;
+    /* Style */
+    font-weight: 700;
+
+}
+
+/* Hero text formatting */
+#hero-text{
+    /* Display */
+    margin-bottom: 10px;
+    /* Style */
+    font-size: 18px;
+    font-weight: 400;
+    color: #546285;
+}
+
+/* Hero button */
+.brand-span{
+    /* Style */
+    color: #35b8be;
+}
+#hero-button{
+    /* Display */
+    padding: 10px 35px;
+    /* Style */
+    color: #fff;
+    background-color: #35b8be;
+    border: 1px solid #35b8be;
+    border-radius: 6px;
+}
