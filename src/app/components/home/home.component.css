@@ -1,11 +1,30 @@
+/* Banner formatting */
+#banner{
+    /* Style */
+    font-size: 15px;
+    height: 20px;
+    min-height: 48px;
+    padding: 5px 3%;
+}
+#banner-wrap{
+    /* Style */
+    font-size: 15px;
+    height: 20px;
+    max-width: 1000px;
+}
+#wrap-text{
+    /* Style */
+    font-size:15px;
+    height:20px;
+    color: rgba(255, 255, 255, 0.8);
+}
 /* Hero title formatting */
 #hero-title{
-    /* Display */
-    font-size: 60px;
-    margin: 20px 0;
-    max-width: 580px;
     /* Style */
+    margin: 20px 0;
+    font-size: 60px;
     font-weight: 700;
+    max-width: 580px;
 
 }
 
